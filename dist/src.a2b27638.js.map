@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/index.js"],"names":["myFunction","console","log"],"mappings":"AAAA,SAASA,UAAUA,CAAA,EAAG;EACpBC,OAAO,CAACC,GAAG,CAAC,aAAa,CAAC;AAC5B","file":"src.a2b27638.js","sourceRoot":"..","sourcesContent":["function myFunction() {\r\n  console.log(\"Hello world\");\r\n}\r\n"]}
